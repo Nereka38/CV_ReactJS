@@ -1,8 +1,10 @@
 .scrollUp {
     display: flex;
-    justify-content: space-around;
+    justify-content: flex-end;
     align-items: center;
     text-align: center;
-    margin: 2%;
     position: fixed;
+    width: 100%;
+    align-items: flex-end;
+    height: 100%;
 }
