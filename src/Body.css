@@ -1,0 +1,73 @@
+#nav {
+  display: flex;
+  justify-content: space-around;
+  position: block;
+  text-align: center;
+  background: #fff;
+}
+  
+.main {
+  max-width: 1140px;
+  margin: 0 10%;
+  border-bottom: 1px solid #ccc;
+}
+  
+.about-me {
+  font-weight: bold;
+}
+  
+.skills {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+  
+.title {
+  color: #c784c7;
+  -ms-flex: 0 0 33.3%;
+  flex: 0 0 33.3%;
+  max-width: 33%;
+}
+  
+.descrition {
+    -ms-flex: 0 0 66.6%;
+    flex: 0 0 66.6%;
+    max-width: 66.6%;
+  }
+  
+.descrition p {
+    padding-left: 1em;
+  }
+  
+.column {
+    -ms-flex: 0 0 50% !important; 
+    flex: 0 0 30% !important;
+    max-width: 50% !important;
+  }
+  
+  .skills > .column ul, ul.job-description {
+    list-style-type: none !important;
+  }
+  
+  .skills > .column ul > li:before {
+    content: "■";
+    padding-right: 0.5em;
+    color: #d8b7d8 !important;
+  }
+  
+  .school, .job-title {
+    text-transform: capitalize;
+  }
+  
+  .school span, .job-title span {
+    color: #c784c7;
+    text-decoration: underline;
+  }
+  
+  ul.job-description li:before{
+    content: "✔";
+    padding-right: 0.5em;
+    color: #d8b7d8;
+  }
+  

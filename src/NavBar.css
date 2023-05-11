@@ -1,0 +1,16 @@
+#nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-flow: row wrap;
+    text-align: center;
+    background: #fff;
+    margin: 2%;
+    font-weight: bold;
+  }
+
+  a {
+    cursor: pointer;
+    padding: 2%;
+  }
+  

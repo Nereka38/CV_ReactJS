@@ -1,0 +1,26 @@
+.header {
+    margin: 0 auto;
+  }
+  
+.header {
+    padding: 2em;
+    text-align: center;
+    background-image: url('/public/img/wallpaper.jpg');
+    background-size: cover;
+    background-position: fixed;
+    color: #72157a;
+  }
+  
+  .header section {
+    margin: 0 auto;
+    max-width: 640px;
+  }
+  
+  .header img {
+    border-radius: 50%;
+    max-width: 150px;
+  }
+
+svg {
+    margin: 1%;
+}

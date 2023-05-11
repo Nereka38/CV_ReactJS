@@ -1,0 +1,8 @@
+.scrollUp {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    margin: 2%;
+    position: fixed;
+}
