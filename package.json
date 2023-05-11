@@ -1,7 +1,7 @@
 {
   "name": "cv",
   "version": "0.1.0",
-  "homepage": "https://nereka38.github.io/cv-nerea-fernandez-react",
+  "homepage": "https://nereka38.github.io/CV_ReactJS",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
