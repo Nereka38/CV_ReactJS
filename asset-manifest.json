@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cv-nerea-fernandez-react/static/css/main.4a83897b.css",
-    "main.js": "/cv-nerea-fernandez-react/static/js/main.0e52439e.js",
-    "static/js/787.a71561b8.chunk.js": "/cv-nerea-fernandez-react/static/js/787.a71561b8.chunk.js",
-    "static/media/wallpaper.jpg": "/cv-nerea-fernandez-react/static/media/wallpaper.c704a179738ae69e5ee0.jpg",
-    "index.html": "/cv-nerea-fernandez-react/index.html",
-    "main.4a83897b.css.map": "/cv-nerea-fernandez-react/static/css/main.4a83897b.css.map",
-    "main.0e52439e.js.map": "/cv-nerea-fernandez-react/static/js/main.0e52439e.js.map",
-    "787.a71561b8.chunk.js.map": "/cv-nerea-fernandez-react/static/js/787.a71561b8.chunk.js.map"
+    "main.css": "/CV_ReactJS/static/css/main.6c32ade6.css",
+    "main.js": "/CV_ReactJS/static/js/main.4ab284c9.js",
+    "static/js/787.a71561b8.chunk.js": "/CV_ReactJS/static/js/787.a71561b8.chunk.js",
+    "static/media/wallpaper.jpg": "/CV_ReactJS/static/media/wallpaper.c704a179738ae69e5ee0.jpg",
+    "index.html": "/CV_ReactJS/index.html",
+    "main.6c32ade6.css.map": "/CV_ReactJS/static/css/main.6c32ade6.css.map",
+    "main.4ab284c9.js.map": "/CV_ReactJS/static/js/main.4ab284c9.js.map",
+    "787.a71561b8.chunk.js.map": "/CV_ReactJS/static/js/787.a71561b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a83897b.css",
-    "static/js/main.0e52439e.js"
+    "static/css/main.6c32ade6.css",
+    "static/js/main.4ab284c9.js"
   ]
 }
