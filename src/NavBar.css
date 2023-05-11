@@ -5,8 +5,9 @@
     flex-flow: row wrap;
     text-align: center;
     background: #fff;
-    margin: 2%;
+    padding: 2%;
     font-weight: bold;
+    z-index: 1;
   }
 
   a {
