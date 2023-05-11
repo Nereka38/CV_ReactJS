@@ -11,6 +11,10 @@
   margin: 0 10%;
   border-bottom: 1px solid #ccc;
 }
+
+h3 {
+  margin-top: 5%;
+}
   
 .about-me {
   font-weight: bold;
